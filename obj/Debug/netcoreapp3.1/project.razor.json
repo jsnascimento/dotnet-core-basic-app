@@ -20526,6 +20526,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Produtos\\Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Categorias\\Create.cshtml",
       "TargetPath": "Views\\Categorias\\Create.cshtml",
       "FileKind": "mvc"
@@ -20533,6 +20538,11 @@
     {
       "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Produtos\\Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,8 +20556,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Produtos\\Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Softeam\\Documents\\Curso FullStack Carrefour\\DOTNET WEB\\webnetcore\\Views\\Produtos\\Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
